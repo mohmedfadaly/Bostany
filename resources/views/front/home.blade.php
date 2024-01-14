@@ -1,0 +1,11 @@
+@extends('front.master.master')
+@section('title', 'الرئيسية')
+@section('content')
+    @include('front.parts.header')
+    @include('front.parts.services')
+    @include('front.parts.features')
+    @include('front.parts.works')
+    @include('front.parts.fuq')
+    @include('front.parts.articles')
+    @include('front.parts.contact')
+@endsection

@@ -1,0 +1,10 @@
+{
+    "Customers": true,
+    "Main": true,
+    "Projects": true,
+    "Media": true,
+    "About": true,
+    "Setting": true,
+    "Contact": true,
+    "Jobs": true
+}
